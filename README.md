@@ -1,5 +1,5 @@
 
-### Space Spellcasters Chat System Project Documentation
+### Space Spellcasters Chat System 
 
 ---
 
