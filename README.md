@@ -1,4 +1,4 @@
-```markdown
+
 ### Space Spellcasters Chat System Project Documentation
 
 ---
@@ -110,7 +110,7 @@ The Space Spellcasters Chat System stores files in the `server_files` directory.
 The Space Spellcasters Chat System logs server actions and messages in the `file.log` file. This log file contains important information about user logins, message exchanges, and file transfers.
 
 ---
-```
+ 
 
 ## Directory Structure
 
