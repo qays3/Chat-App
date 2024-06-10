@@ -124,11 +124,11 @@ The Space Spellcasters Chat System logs server actions and messages in the `file
 │   ├── utils.py
 │   ├── requirements.txt
 ├── logo
-│   ├── space_spellcasters_logo.png
+│   ├── Chat-App.png
 ├── server_files
 │   ├── (empty)
 ├── __pycache__
 │   ├── (contains Python bytecode files)
-├── docs.md
+├── README.md
 ├── file.log
 ```
