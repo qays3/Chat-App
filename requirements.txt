@@ -1,16 +1,2 @@
 cryptography
 Pillow
-tkinter
-socket
-threading
-os
-logging
-time
-uuid
-pickle
-base64
-random
-string
-datetime
-mimetypes
-webbrowser
