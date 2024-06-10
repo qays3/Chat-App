@@ -7,7 +7,7 @@
 
 # Space Spellcasters Chat System
 
-The Space Spellcasters Chat System is a real-time communication application developed by [Your Name]. It allows users to log in directly, send encrypted messages, and share emojis. The project is designed to be simple and secure, enabling seamless communication over a network without the need for a database.
+The Space Spellcasters Chat System is a real-time communication application developed by Qays Sarayra, Ilham Thalji. It allows users to log in directly, send encrypted messages, and share emojis. The project is designed to be simple and secure, enabling seamless communication over a network without the need for a database.
 
 ## Table of Contents
 
