@@ -85,14 +85,18 @@ To run the Space Spellcasters Chat System, follow these steps:
 
 1. Open a terminal window.
 
-2. Navigate to the directory containing the project files.
+2. install requirements lib
+   ```
+   pip install -r requirements.txt
+   ```
+3. Navigate to the directory containing the project files.
 
-3. Run the server script:
+4. Run the server script:
    ```
    python server.py
    ```
 
-4. Run the client script:
+5. Run the client script:
    ```
    python client.py
    ```
